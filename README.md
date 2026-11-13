@@ -33,13 +33,11 @@ Collaborated on a web application security assessment using Docker, investigatin
 
 ## Current Learning
 
-- Digital forensics
-- Steganography
-- Network security
-- Cloud security
-- Threat detection
-
+- Digital Forensics
+- Ethics and Compliance
+- Cyber Security Threat LandScape
+- AI for CyberSecurity
+ 
 ## Contact
 
-- LinkedIn: [Insert LinkedIn URL]
-- Email: [Insert professional email]
+- LinkedIn: https://linkedin.com/in/croninjoseph
